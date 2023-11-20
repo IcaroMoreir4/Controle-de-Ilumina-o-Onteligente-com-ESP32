@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do curso de Projeto Integrador IoT. Ele
 
 ## Demonstração
 
-O projeto pode ser visualizado e executado em tempo real no ambiente de simulação Wokwi. [Clique aqui para acessar a simulação](https://wokwi.com/projects/381928594508863489).
+O projeto pode ser visualizado e executado em tempo real no ambiente de simulação Wokwi. [Clique aqui para acessar a simulação](https://wokwi.com/projects/381928594508863489){:target="_blank"}.
 
 ## Instruções de Uso
 
@@ -14,7 +14,7 @@ Ao iniciar o projeto, o console fornecerá instruções para o usuário. Utiliza
 
 ### Simulação no Wokwi
 
-1. [Acesse a simulação no Wokwi](https://wokwi.com/projects/381928594508863489).
+1. [Acesse a simulação no Wokwi](https://wokwi.com/projects/381928594508863489){:target="_blank"}.
 2. Inicie a simulação.
 3. Utilize o console do Wokwi para interagir com o projeto de forma intuitiva e explicativa.
 
